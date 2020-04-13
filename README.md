@@ -1,1 +1,2 @@
-# zabbix-notify
+# Zabbix Notify
+
